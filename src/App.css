@@ -62,6 +62,7 @@ header {
   padding: 2px;
   width: 20px;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .row {
